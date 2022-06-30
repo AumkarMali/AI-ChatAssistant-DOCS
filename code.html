@@ -40,13 +40,13 @@
 									<p>Step by step process and explanation of code</p>
 								</header>
 								
-								<p>Before we can start coding, all dependices must be installed.</p>
+								<p>Before we can start coding, all dependices must be installed. Make sure python is added to the PATH. In the program directory use this command to download the packages.</p>
 
 								<code>pip install transformers numpy</code>
 
 								<br>
 
-								<p>These packages will be imported in the begining of our program.</p>
+								<p>These packages will be imported in the begining of the python program.</p>
 
 								<pre><code class="python">import transformers<br>import os<br>import numpy as np
 								</code></pre>
@@ -59,14 +59,14 @@
 								</code></pre>
 
 								<p>A while loop will be used to keep the chat bot runnning until the user tells it to exit.
-									In this command, a user input variable will feed information to the chatbot.
+									In this command, a user input variable will send information to the chatbot.
 								</p>
 
 								<pre><code class="python">while RunLoop:<br>text = input("enter text: ")<br>print("----- Closing down Cortana -----")
 								</code></pre>
 
 								<p>Now that we have the user text, we can set conditional statements or modify the text before the AI gets it. 
-									Once the string is entered, the chatbot will search through its databases and find the most accurate response to the string.
+									Once the string is entered, the chatbot will search through its databases and find the most accurate response to the string. In the code below, the if statement tells the computer that when the user is greeting the Chatbot. A Constant reponse must be outputted.
 								</p>
 								
 								<pre><code class="python">if any(i in text for i in<br>["exit", "close", "bye", "cya", "have a nice day", "see you", "talk to you later"]):<br>
