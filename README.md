@@ -6,9 +6,9 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-# Cortana - Website
+# Code DOCS and Project History
 
-Javascript (back - end) website created for my discord bot and AI voice assistance; Cortana.
+Javascript (back - end) website created for AI voice assistant in Python!
 
 
 ## Authors
