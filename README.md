@@ -18,7 +18,7 @@ Javascript (back - end) website created for AI voice assistant in Python!
 
 ## Demo
 
-https://cortanatherobot.netlify.app
+https://documentation-nlp-python.netlify.app
 
 
 ## Deployment
