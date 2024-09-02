@@ -8,7 +8,7 @@
 
 # Code DOCS and Project History
 
-Javascript (back - end) website created for AI voice assistant in Python!
+Javascript, HTML, CSS built website created for AI voice assistant in Python!
 
 
 ## Authors
